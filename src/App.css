@@ -1,0 +1,7 @@
+.mainDivider{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(196, 234, 237);
+    display: flex;
+    align-items: center;
+}
